@@ -1,0 +1,16 @@
+[user]
+  email = e3.kumar@gmail.com
+  name = Eeshan Kumar
+[credential]
+  helper = cache
+[core]
+  editor = vim
+[color]
+  ui = always
+[push]
+  default = current
+[log]
+  decorate = full
+[branch]
+  rebase = true
+  autosetuprebase = always
