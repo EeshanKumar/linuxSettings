@@ -29,3 +29,9 @@ key <FK10> { [XF86AudioRaiseVolume] };
 
 // UK Specific Mapping
 key <LSGT> { [backslash, bar] };
+
+
+Other Information/Links
+=======================
+Application Switcher instructions: http://juniway.blogspot.com/2015/12/alt-tab-switch-between-windows-on.html
+Crouton Information: https://github.com/dnschneid/crouton/wiki/Chromebook-Pixel
